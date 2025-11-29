@@ -51,7 +51,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Uploading Screenshot 2025-11-29 131548.png…]()
+<img width="1909" height="1080" alt="Screenshot 2025-11-29 131548" src="https://github.com/user-attachments/assets/0e905600-3705-4595-aac0-a4babb3accba" />
+
 
 
 
