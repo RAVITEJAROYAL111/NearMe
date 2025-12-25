@@ -126,7 +126,8 @@ museum.html
 
 map.html
 
-![alt text](image.png)
+<img width="926" height="611" alt="image" src="https://github.com/user-attachments/assets/8618dc89-6b43-40a9-bc6f-003e71c3fa93" />
+
 
 mount.html
 
