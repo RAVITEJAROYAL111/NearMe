@@ -151,8 +151,8 @@ park.html
 ![alt text](<Screenshot 2025-11-30 142147.png>)
 
 =======
-<img width="1909" height="1080" alt="Screenshot 2025-11-29 131548" src="https://github.com/user-attachments/assets/0e905600-3705-4595-aac0-a4babb3accba" />
->>>>>>> c1bbfdefb014b7f633a96ca0340e3b9947802c27
+
+
 
 
 ## RESULT
