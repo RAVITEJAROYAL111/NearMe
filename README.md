@@ -126,7 +126,8 @@ museum.html
 
 map.html
 
-<img width="926" height="611" alt="image" src="https://github.com/user-attachments/assets/8618dc89-6b43-40a9-bc6f-003e71c3fa93" />
+<img width="926" height="611" alt="Screenshot 2025-12-25 201839" src="https://github.com/user-attachments/assets/19ca40f4-6351-4fa3-98e1-d923e1dfe7d3" />
+
 
 
 mount.html
